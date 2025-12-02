@@ -54,37 +54,6 @@ def impact(projects, reach):
 print(impact(30, 7000))
 ```
 
----
-
-## 🔥 **29+ Projects with Code**
-
-<details>
-  <summary>📂 Click to Expand</summary>
-  
-  | **Language** | **Project**                          | **Code**    |
-  |--------------|--------------------------------------|-------------|
-  | **C**      | System Resource Monitor               | [View Code](#) |
-  | **C++**    | 3D Shape Renderer                     | [View Code](#) |
-  | **Java**   | E-Commerce Cart System                | [View Code](#) |
-  | **Java**   | Student Grade Manager                 | [View Code](#) |
-  | **HTML/CSS**| Portfolio Landing Page               | [View Code](#) |
-  | **JS**     | Real-Time Weather App                 | [View Code](#) |
-  | **JS**     | Interactive To-Do List                | [View Code](#) |
-  | **Python** | AI Chatbot Prototype                  | [View Code](#) |
-  | **Python** | File Organizer Script                 | [View Code](#) |
-  | **C++**    | Inventory Management                  | [View Code](#) |
-  | **JS**     | Countdown Timer                       | [View Code](#) |
-  | **Python** | Web Scraper Tool                      | [View Code](#) |
-  | **Python** | Password Generator                    | [View Code](#) |
-  | **React**  | Dynamic Form Validator                | [View Code](#) |
-  | **ML/NLP** | Sentiment Analysis Model              | [View Code](#) |
-  | **OpenCV** | Face Detection System                 | [View Code](#) |
-  | **Blockchain** | Smart Contract using Solidity    | [View Code](#) |
-  | **Python** | Automated Trading Bot                 | [View Code](#) |
-</details>
-
----
-
 ## 📫 **Connect & Collaborate**
 
 <p align="center">
@@ -92,18 +61,17 @@ print(impact(30, 7000))
   <a href="mailto:akshaygurav416115@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
----
-
-## 📊 **GitHub Insights**
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshay-gurav-31&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-gurav-31&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshay-Gurav-31&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Akshay-Gurav-31&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
+
 
 <p align="center">
   <em>"Mathematics is the music of reason, and code is its voice."</em>  
-  — **Akshay Gurav**
+  — Akshay Gurav
 </p>
