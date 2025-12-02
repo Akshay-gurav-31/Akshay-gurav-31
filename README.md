@@ -68,6 +68,11 @@ print(impact(30, 7000))
   <img src="https://streak-stats.demolab.com?user=Akshay-Gurav-31&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-Gurav-31&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 
 
 
