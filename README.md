@@ -65,6 +65,7 @@ print(impact(30, 7000))
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshay-Gurav-31&show_icons=true&theme=tokyonight&hide_border=true" />
+  
   <img src="https://streak-stats.demolab.com?user=Akshay-Gurav-31&theme=tokyonight&hide_border=true" />
 </p>
 
