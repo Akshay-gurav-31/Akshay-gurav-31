@@ -1,4 +1,4 @@
-## 👨‍💻 **Akshay Gurav - The Architect of Digital Excellence**
+ ## 👨‍💻 **Akshay Gurav - The Architect of Digital Excellence**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+Innovator+%7C+Tech+Leader+%7C+Entrepreneur;💡+Transforming+Ideas+Into+Reality;🌎+Code+is+the+Language+of+the+Universe;🔥+Mathematics+and+Logic+Drive+Technology" />
