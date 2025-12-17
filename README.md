@@ -6,7 +6,7 @@
 
 ----
 
-### 🔴 **The Digital Alchemist**
+### **The Digital Alchemist**
 
 ```java
 class AkshayGurav {
