@@ -88,7 +88,7 @@ Remote · USA & Switzerland · Jul 2025 – Oct 2025
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshay-gurav-31&show_icons=true&theme=default&hide_border=true&bg_color=0b1220&title_color=38bdf8&icon_color=38bdf8&text_color=e0f2fe"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Akshay-gurav-31&theme=default&hide_border=true&background=0b1220&ring=38bdf8&fire=7dd3fc&currStreakLabel=38bdf8&sideLabels=e0f2fe&dates=bae6fd"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Akshay-gurav-31&theme=default&hide_border=true&background=0b1220&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
