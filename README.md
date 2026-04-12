@@ -22,9 +22,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Location-Kolhapur%2C%20Maharashtra%2C%20India-1a0533?style=flat-square&labelColor=0d0015"/>
+<img src="https://img.shields.io/badge/Location-Kolhapur%2C%20Maharashtra%2C%20India-1a0533?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💼_Status-Open%20to%20Opportunities-4a1d96?style=flat-square&labelColor=0d0015"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-4a1d96?style=flat-square"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Akshay-gurav-31&color=c084fc&style=flat-square&label=Profile+Views"/>
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Data Science and AI/ML focused engineer with strong emphasis on building real-world systems using machine learning, deep learning, and data-driven approaches.
 
@@ -42,99 +42,78 @@ Worked as a **Data Science Intern at Curetopia (USA & Switzerland)**, contributi
 
 Core focus areas include **AI/ML, Deep Learning, Data Science, and Data Analytics**, along with hands-on experience in full stack development and software engineering practices.
 
-Built and explored **130+ projects** across multiple domains with a learning-by-building approach, implementing concepts directly in production-style environments.
-
-<br/>
+Built and explored **130+ projects** across multiple domains with a learning-by-building approach.
 
 ---
 
-## 💼 Experience
+## Experience
 
-<br/>
+### Data Science Intern — Curetopia  
+Remote · USA & Switzerland · Jul 2025 – Oct 2025
 
-### 🏢 Data Science Intern — Curetopia
-**Remote · USA & Switzerland · Jul 2025 – Oct 2025**
-
-| Area | Details |
-|------|---------|
-| 🧬 Domain | Biomedical & AI-focused systems |
-| 🔧 Responsibilities | Data pipelines, scraping, cleaning, visualization |
-| 🤖 AI Work | AI agent-based workflows & healthcare AI solutions |
-| 🛠️ Stack | Python · TypeScript · PostgreSQL · Docker |
-
-<br/>
-
-### 🏢 Junior Software Engineer Intern — Meta Globals
-
-| Area | Details |
-|------|---------|
-| 🌐 Domain | Full Stack Web Development |
-| 🔧 Responsibilities | Next.js apps, LMS system development |
-| 🧪 Testing | Unit, functional, and UI testing |
-| ⚡ Optimization | Performance & load optimization |
-| 🛠️ Stack | Next.js · TypeScript · Prisma · Supabase |
-
-<br/>
+- Biomedical & AI-focused systems  
+- Data pipelines, scraping, cleaning, visualization  
+- AI agent workflows & healthcare AI  
+- Stack: Python · TypeScript · PostgreSQL · Docker  
 
 ---
 
-## 🛠️ Tech Stack
+### Junior Software Engineer Intern — Meta Globals  
 
-<br/>
-
-| | |
-|---|---|
-| **Languages** | Python · JavaScript · TypeScript · Java · C++ |
-| **AI / ML** | Machine Learning · Deep Learning · CNNs · LLMs · AI Agents · OpenCV |
-| **Data** | Data Science · EDA · Power BI · Data Analytics |
-| **Frontend** | React · Next.js |
-| **Backend** | Node.js · Express |
-| **Databases** | MySQL · PostgreSQL · Supabase · Prisma |
-| **DevOps** | Docker · Git · GitHub |
-
-<br/>
+- Full stack development (Next.js, TypeScript)  
+- LMS system development  
+- Testing: Unit, functional, UI  
+- Performance & load optimization  
+- Stack: Next.js · Prisma · Supabase  
 
 ---
 
-## 📊 GitHub Statistics
+## Tech Stack
 
-<br/>
+| Category | Technologies |
+|----------|-------------|
+| Languages | Python · JavaScript · TypeScript · Java · C++ |
+| AI/ML | Machine Learning · Deep Learning · CNNs · LLMs · AI Agents |
+| Data | Data Science · EDA · Power BI · Analytics |
+| Frontend | React · Next.js |
+| Backend | Node.js |
+| Databases | MySQL · PostgreSQL · Supabase |
+| DevOps | Docker · Git · GitHub |
 
-<div align="center">
+---
+
+## GitHub Statistics
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshay-gurav-31&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0015&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/>
 
+<img height="180em" src="https://streak-stats.demolab.com?user=Akshay-gurav-31&theme=midnight-purple&hide_border=true&background=0d0015&ring=c084fc&fire=ffffff&currStreakLabel=c084fc"/>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-gurav-31&theme=tokyo-night&hide_border=true&bg_color=0d0015&color=c084fc&line=7c3aed&point=ffffff&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-gurav-31&theme=tokyo-night&hide_border=true&bg_color=0d0015&color=c084fc&line=7c3aed&point=ffffff&area=true"/>
 
 </div>
+---
 
-## 🏆 Achievements
+## Achievements
 
-<br/>
-
-| 🎖️ Achievement | Details |
-|----------------|---------|
-| 🥇 AIR 73 | National Engineering Championship at **IIT Bombay** |
-| 🌍 Global Intern | Data Science Intern — **Curetopia (USA & Switzerland)** |
-| 💼 SWE Intern | Software Engineer Intern — **Meta Globals** |
-| 👑 Leadership | Vice President — **E-Cell** |
-| 🤝 Network | **9,000+** Connections on LinkedIn |
-| 🌐 Open Source | Active Open Source Contributor |
-| 🚀 Projects | **130+** Projects built across domains |
-
-<br/>
+- AIR 73 — National Engineering Championship (IIT Bombay)  
+- Data Science Intern — Curetopia (USA & Switzerland)  
+- Software Engineer Intern — Meta Globals  
+- Vice President — E-Cell  
+- 9K+ LinkedIn Network  
+- Open Source Contributor  
+- 130+ Projects  
 
 ---
 
-## 📬 Connect With Me
-
-<br/>
+## Connect
 
 <div align="center">
 
@@ -152,15 +131,11 @@ Built and explored **130+ projects** across multiple domains with a learning-by-
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-### 💡 Philosophy
-
-*"Building intelligent systems that transform data into meaningful and scalable real-world solutions."*
+Building intelligent systems that transform data into meaningful real-world solutions.
 
 <br/>
 
