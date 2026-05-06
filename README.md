@@ -4,6 +4,10 @@
 
 <br/>
 
+[![](https://github.com/Akshay-gurav-31/Akshay-gurav-31/blob/main/chat.svg)](https://github.com/Akshay-gurav-31)
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Deep+Learning+%26+LLMs+Specialist;Data+Science+%26+Analytics;Global+Intern+%7C+USA+%26+Switzerland;130%2B+Projects+Across+Domains;Learning+by+Building"/>
 
 <br/><br/>
